@@ -17,17 +17,19 @@ html {
     background-size: 100% 33vh !important;
   }
   #demoFont {
-    margin-top: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 27px;
-    letter-spacing: 0.8px;
-    word-spacing: 0.4px;
-    color: #FAFFFD;
-    font-weight: 700;
-    text-decoration: none solid rgb(68, 68, 68);
-    font-style: normal;
-    font-variant: small-caps;
-    text-transform: capitalize;
+    font-family: Comic Sans MS;
+  font-size: 22px;
+  color: #fcf9f9;
+  letter-spacing: 4px;
+  word-spacing: 0px;
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none;
+  display: inline-block;
+  padding: 21px 21px;
+  border-radius: 20px;
+  
+  
     }
   
   #main-div {
@@ -75,6 +77,21 @@ html {
     position: absolute;
     bottom: 1%;
   }
+  #demoFont {
+    font-family: Comic Sans MS;
+  font-size: 12px;
+  color: #fcf9f9;
+  letter-spacing: 4px;
+  word-spacing: 0px;
+  font-weight: 700;
+  font-style: normal;
+  text-decoration: none;
+  display: inline-block;
+  padding: 21px 21px;
+  border-radius: 20px;
+  
+  
+    }
 }
 
 #logo-img {
@@ -91,16 +108,19 @@ html {
     bottom: 6%;
   }
   #demoFont {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 27px;
-    letter-spacing: 0.8px;
-    word-spacing: 0.4px;
-    color: #FAFFFD;
-    font-weight: 700;
-    text-decoration: none solid rgb(68, 68, 68);
-    font-style: normal;
-    font-variant: small-caps;
-    text-transform: capitalize;
+    font-family: Comic Sans MS;
+  font-size: 12px;
+  color: #fcf9f9;
+  letter-spacing: 4px;
+  word-spacing: 0px;
+  font-weight: 700;
+  font-style: normal;
+  text-decoration: none;
+  display: inline-block;
+  padding: 21px 21px;
+  border-radius: 20px;
+  
+  
     }
 }
 /*
@@ -161,14 +181,17 @@ h2 {
   margin-right: 5px;
 }
 #demoFont {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 27px;
-  letter-spacing: 0.8px;
-  word-spacing: 0.4px;
-  color: #FAFFFD;
-  font-weight: 700;
-  text-decoration: none solid rgb(68, 68, 68);
-  font-style: normal;
-  font-variant: small-caps;
-  text-transform: capitalize;
+  font-family: Comic Sans MS;
+font-size: 35px;
+color:lightcyan;
+letter-spacing: 2px;
+word-spacing: 0px;
+font-weight: 700;
+font-style: normal;
+text-decoration: none;
+display: inline-block;
+padding: 21px 21px;
+border-radius: 20px;
+
+
   }
